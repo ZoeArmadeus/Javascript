@@ -6,7 +6,7 @@ let total:number;
 //給變數值
 
 price = 10;
-quantity = 14;
+quantity = 13 ;
 
 //計算
 total = price * quantity;
